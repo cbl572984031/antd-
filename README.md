@@ -1,2 +1,2 @@
 # antd-
-react+antd可在线上动态修改的配置
+react+antd可在线上动态修改主题的配置
